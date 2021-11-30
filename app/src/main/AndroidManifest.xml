@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AdminCALMable">
         <activity
+            android:name=".PlayMusicActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EditMusicPage"
+            android:exported="true" />
+        <activity
+            android:name=".adapter.MusicAdapter"
+            android:exported="true" />
+        <activity
+            android:name=".DisplayUploadedSongs"
+            android:exported="true" />
+        <activity
             android:name=".Landing"
             android:exported="true" />
         <activity

@@ -5,15 +5,23 @@
       <map>
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable-v24/custom_input.xml" value="0.21203703703703702" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable-v24/mybutton.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1125" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1125" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/ic_baseline_view_list_24.xml" value="0.21203703703703702" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/ic_email.xml" value="0.21203703703703702" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21203703703703702" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/drawable/mybutton.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_display_uploaded_songs.xml" value="0.2" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_edit_music_page.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_enter_phone.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_landing.xml" value="0.18" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_login_user.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_play_music.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_register_user.xml" value="0.22" />
         <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/activity_verify_phone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/card_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ayesh/AndroidStudioProjects/AdminCALMable/app/src/main/res/layout/grid_item_upload_music.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
